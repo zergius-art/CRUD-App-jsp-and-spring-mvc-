@@ -1,0 +1,12 @@
+ua\test\wicket\config\FrontControllerConfig.class
+ua\test\wicket\controller\LoginController.class
+ua\test\wicket\dao\UsersDaoImpl$1.class
+ua\test\wicket\model\Users.class
+ua\test\wicket\dao\UsersDao.class
+ua\test\wicket\controller\CreateController.class
+ua\test\wicket\controller\UpdateController.class
+ua\test\wicket\dao\UsersDaoImpl$2.class
+ua\test\wicket\config\WebMvcConfig.class
+ua\test\wicket\controller\DeleteController.class
+ua\test\wicket\controller\ReadController.class
+ua\test\wicket\dao\UsersDaoImpl.class
